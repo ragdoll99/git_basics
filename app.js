@@ -8,3 +8,4 @@ console.log("new line 3 here for rebase");
 
 console.log("no conflict 1");
 console.log("no conflict 2");
+console.log("no conflict 3");
